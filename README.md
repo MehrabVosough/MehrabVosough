@@ -13,6 +13,7 @@
         alt="Github Stats"
       />
 
+
 ### 🚀 Skills
 <p>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Javascript"/></code>
@@ -26,9 +27,11 @@
 </div>
 </p>
 
+
 ----
+
 <p align="left">
-  Conract me: ⤵️
+  Contact me: ⤵️
 </p>
 
 <p align="left">
