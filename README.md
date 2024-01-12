@@ -10,8 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MehrabVosough&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehrabVosough&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehrabVosough)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 MehrabVosough/MehrabVosough is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
