@@ -4,44 +4,31 @@
     I'm a passionate junior front-end developer with a keen eye for design and a love for crafting seamless user experiences. My journey in the world of web development has been driven by curiosity and a desire to create meaningful and impactful digital solutions.
 </p>
 
-
 ---
-
-<p>
  <img
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehrabVosough&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
-</p>
-
 
 ### 🚀 Skills
-
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Javascript"/></code>
-
 <code><img height="32" src="https://cdn.changelog.com/uploads/icons/topics/YXL/icon_small.png?v=63682389432" alt="Typescript"/></code>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-
 <code><img height="32" src="https://download.logo.wine/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.png" alt="Bootstrap"/></code>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-
 <code><img height="32" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" alt="tailwind"/></code>
-
-
 
 ----
 
 <p align="left">
   Contact me: ⤵️
 </p>
-
 <p align="left">
   <a href="https://mehrabvosough.dp@gmail.com
 " title="Gmail">
