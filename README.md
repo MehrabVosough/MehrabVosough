@@ -9,7 +9,7 @@
 ---
 
 <p align="left">
-  💌 Conract me: ⤵️
+  Conract me: ⤵️
 </p>
 
 <p align="left">
@@ -24,7 +24,9 @@
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
 </p>
 
+________
 ### ⚙️ GitHub Analytics
+<p>
  <img
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=MehrabVosough&theme=dark&hide_border=false&include_all_commits=true"
@@ -35,9 +37,10 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehrabVosough&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
+</p>
 
-
-### 🚀 Skills
+_______
+🚀 Skills
 <p>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Javascript"/></code>
 <code><img height="32" src="https://cdn.changelog.com/uploads/icons/topics/YXL/icon_small.png?v=63682389432" alt="Typescript"/></code>
