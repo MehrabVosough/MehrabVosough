@@ -2,6 +2,7 @@
 
 <p align="left"> 
   HEY THERE!
+  I'm a passionate junior front-end developer with a keen eye for design and a love for crafting seamless user experiences. My journey in the world of web development has been driven by curiosity and a desire to create meaningful and impactful digital solutions.
 </p>
 
 <p align="left">
