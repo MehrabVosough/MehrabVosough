@@ -4,7 +4,7 @@
     I'm a passionate junior front-end developer with a keen eye for design and a love for crafting seamless user experiences. My journey in the world of web development has been driven by curiosity and a desire to create meaningful and impactful digital solutions.
 </p>
 
-######
+----
 <p align="left">
   Conract me: ⤵️
 </p>
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
 </p>
 
-### 
+---
 
  <img
         align="left"
@@ -29,8 +29,7 @@
         alt="Github Stats"
       />
 
-_______
-🚀 Skills
+### 🚀 Skills
 <p>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Javascript"/></code>
 <code><img height="32" src="https://cdn.changelog.com/uploads/icons/topics/YXL/icon_small.png?v=63682389432" alt="Typescript"/></code>
