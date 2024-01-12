@@ -1,13 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Mehrab Vosough</h3>
 <p>
     I'm a passionate junior front-end developer with a keen eye for design and a love for crafting seamless user experiences. My journey in the world of web development has been driven by curiosity and a desire to create meaningful and impactful digital solutions.
 </p>
 
----
-
+######
 <p align="left">
   Conract me: ⤵️
 </p>
@@ -24,20 +21,13 @@
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
 </p>
 
-________
-### ⚙️ GitHub Analytics
-<p>
- <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=MehrabVosough&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
+### 
+
  <img
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehrabVosough&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
-</p>
 
 _______
 🚀 Skills
