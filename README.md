@@ -6,6 +6,7 @@
 
 ---
 
+
 ### 🚀 Skills
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Javascript"/></code>
 <code><img height="32" src="https://cdn.changelog.com/uploads/icons/topics/YXL/icon_small.png?v=63682389432" alt="Typescript"/></code>
@@ -15,14 +16,19 @@
 <code><img height="32" src="https://download.logo.wine/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" alt="tailwind"/></code>
-<a>
 
+
+<a>
 <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehrabVosough&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
 
 </a>
+
+---
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
