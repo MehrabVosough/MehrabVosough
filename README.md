@@ -4,7 +4,7 @@
     I'm a passionate junior front-end developer with a keen eye for design and a love for crafting seamless user experiences. My journey in the world of web development has been driven by curiosity and a desire to create meaningful and impactful digital solutions.
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 ### 🚀 Skills
@@ -26,7 +26,7 @@
 
 </a>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
