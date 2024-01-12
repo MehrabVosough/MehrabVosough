@@ -1,14 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  HEY THERE!
-</p>
+
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Gift Egwuenu</h3>!
 <p>
     I'm a passionate junior front-end developer with a keen eye for design and a love for crafting seamless user experiences. My journey in the world of web development has been driven by curiosity and a desire to create meaningful and impactful digital solutions.
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🌐 Linguagens: **Coloque as linguagens que você desenvolve.**
 </p>
 
 <p align="left">
