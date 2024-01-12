@@ -7,28 +7,26 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-### 🚀 Skills
+## 🚀about Skills:
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Javascript"/></code>
 <code><img height="32" src="https://cdn.changelog.com/uploads/icons/topics/YXL/icon_small.png?v=63682389432" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://download.logo.wine/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" alt="tailwind"/></code>
 
-
-<a>
 <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehrabVosough&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehrabVosough&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
-      />
-
-</a>
+      />    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehrabVosough&show_icons=true&theme=transparent)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b> I love connecting with different people so if you want to say </b> <b>hi, I'll be happy to meet you more!</b> :)
 
 ---
 
